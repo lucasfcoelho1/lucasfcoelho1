@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Lucas Coelho 👨🏾‍💻
+## Sobre mim 👨🏾‍💻
  <div>
   <a href="https://github.com/lucasfcoelho1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfcoelho1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,5 +22,7 @@
  	<a href="https://www.twitch.tv/priihmo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasfcoelho1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasfcoelho1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/lucasfcoelho1/lucasfcoelho1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
