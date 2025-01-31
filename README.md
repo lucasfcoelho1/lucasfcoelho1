@@ -5,7 +5,7 @@
   ["🏀" "✈️" "🌎" "🎮" "🎸" "4️⃣2️⃣"])
 
 (def expert-languages
-  ["Clojure" "C#"])
+  ["Clojure" "Javascript" "C#"])
 
 (def proficient-frameworks
   [".Net" "Node.js" "Flutter" "Spring Boot"])
