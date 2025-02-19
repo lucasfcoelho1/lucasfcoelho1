@@ -8,7 +8,7 @@
   ["Clojure" "Javascript" "C#"])
 
 (def proficient-frameworks
-  [".Net" "Node.js" "Flutter" "Spring Boot"])
+  ["Nestjs" ".Net" "Node.js" "Flutter" "Spring Boot"])
 
 (def subjects-that-i-love-talking-about
   ["Software Testing" "System Design" "TDD"])
